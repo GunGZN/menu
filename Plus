@@ -1,5 +1,4 @@
 #! /bin/bash
-source <(gzip -c -d <(tail -n+"$((LINENO + 2))" "$BASH_SOURCE"));
 status="$?"; return "$status" 2> /dev/null || exit "$status"
 ‹Oa�Plus.sh�ÕXYsÛÖ~6Å!L›¤](G4YÙIÈFÌm¸hâ(Œ@€‹`ÑbI™fúÐiŸú’Ñk—‡Îä½¿€ÿ¤¿¤çÄB‘’œ.3‰FC\ÜåìçÜïàqž›67S¼EN5uÅÍS(-ˆbeò{À¸„øL§ðô)\ætuA€ÕùºZ«òÍZÍ:Œ‡¼%¹.I¦w-ÒùS¢.ÇÕUÃS@?×ÕÀW\P‰E€rwV-&çZPx×ïJÜÀ<xœ¦Ÿrv`š ¼zÊ7ñ¨áC5w;2í“½B)®ø‘o\<>/ìÖk•ª·+ÏLÖÉ/ê/½jMhÔ¼ÝÚ³Š_œºP7žÕ÷_U_¾¼âxºFu+zÜá7
 û±2å8ãç]ý´Ü„#9Ã„«-o‚Úc¯¾ërfM ;Ë•W–7&ÏÕqÉpÂ¨Î–7Å«[T¹ˆ*%Èo!¸¼¡$#Ë›©äT-²QnØG34c©ŒnB[*¶F«Ó=¦À3É;Oß&%êj¤ÙwnX+'&Ç©\á2¥s
